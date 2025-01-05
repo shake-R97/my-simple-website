@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: khaki;
+    margin: 1px 70px ;
+    border: 7px solid;
+}
+
+div {
+    background-color: lightyellow;
+    border: 5px solid;
+    color: teal;
+    margin-top: 10px;
+}
