@@ -11,3 +11,8 @@ div {
     color: teal;
     margin-top: 10px;
 }
+
+.circle {
+    border-radius: 50%;
+    object-fit:cover;
+}
